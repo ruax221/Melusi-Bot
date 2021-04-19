@@ -47,4 +47,4 @@ client.on('message', message =>{
         client.commands.get('unmute').execute(message, args);
      }
 }); 
-client.login('ODMzNTc2MDIzNzUyNDQxOTA2.YH0WKw.eB1ucBS37n4_hln-cSUUKNsy-4k');
+client.login('');
